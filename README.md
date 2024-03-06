@@ -1,4 +1,4 @@
-# Projeto Kafk
+# Projeto de mensageria com Kafka
 ## Objetivo:
 Simulação de produção, envio e consumo de mensagem com kafka.
 ### Tecnologia usada:
