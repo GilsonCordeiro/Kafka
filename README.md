@@ -7,6 +7,9 @@ Simulação de produção, envio e consumo de mensagem com kafka.
   kafka
   Spring boot
   ## Prints do funcionamento do projeto
+  - IntelliJ
+  ![Captura de Tela 2024-03-06 às 15 12 13](https://github.com/GilsonCordeiro/Kafka/assets/96315302/bdc72100-093d-4236-b195-f23fd09d3307)
+
   - Docker
      
 ![Captura de Tela 2024-03-06 às 14 27 02](https://github.com/GilsonCordeiro/Kafka/assets/96315302/dcf709cd-049a-4345-b8aa-be9faa740b18)
